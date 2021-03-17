@@ -1,2 +1,6 @@
-passwords
+# Ignore temp files
 *.swp
+
+# Don't version sensitive material such as keys or passwords
+pki
+passwords
